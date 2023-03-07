@@ -1,0 +1,91 @@
+/* body{
+    background-color: rgb(94, 195, 211);
+} */
+.uname {
+    color: black;
+    background-color: rgb(192, 42, 42);
+}
+
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+
+}   
+
+.row {
+    background-color: rgb(255,154,0);
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 18%, rgba(148, 187, 233, 1) 87%);
+    border-radius: 30px;
+    box-shadow: 12px 12px 27px;
+}
+
+.img {
+    height: 800rem;
+    border-radius: 10%;
+    width: 90%;
+    height: 455px;
+    border-left: 120%;
+    border-top-right-radius: 175%;
+    border-bottom-left-radius: 185%;
+
+
+}
+
+.inp {
+    height: 40px;
+    width: 450px;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 3px 5px 3px;
+    outline: none;
+
+}
+
+/* .body {
+    background-color: rgb(44, 34, 88);
+} */
+
+.btn1 {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+    width: 100px;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    box-shadow: 5px 5px 8px;
+
+}
+
+.btn1:hover {
+    background: rgb(235, 227, 243);
+    color: rgb(157, 157, 217);
+}
+
+.srh {
+    border: 25%;
+    width: 250px;
+}
+
+.fa-facebook {
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+
+}
+
+.fa-facebook:hover {
+    background: rgb(68, 68, 211);
+}
+
+.fa-google {
+    color: white;
+    padding: 10px;
+    font-size: 20px
+}
+
+.fa-google:hover {
+    color: rgb(105, 68, 20);
+}
